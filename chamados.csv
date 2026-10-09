@@ -1,0 +1,31 @@
+﻿id_chamado;data_abertura;categoria;prioridade;status;tempo_resolucao_horas;sla_horas;equipe;cliente
+1001;2026-09-01;Integração API;Alta;Resolvido;5;8;N2;Cliente-001
+1002;2026-09-01;Erro de cadastro;Média;Resolvido;2;24;N1;Cliente-002
+1003;2026-09-02;Banco de dados;Crítica;Em andamento;;4;Desenvolvimento;Cliente-003
+1004;2026-09-02;Lentidão;Alta;Resolvido;12;8;N2;Cliente-001
+1005;2026-09-03;Permissões;Baixa;Resolvido;1;48;N1;Cliente-004
+1006;2026-09-03;Integração API;Crítica;Resolvido;3;4;N2;Cliente-005
+1007;2026-09-04;Relatório;Média;Resolvido;9;24;N2;Cliente-002
+1008;2026-09-04;Banco de dados;Alta;Resolvido;6;8;Desenvolvimento;Cliente-006
+1009;2026-09-05;Erro de cadastro;Baixa;Resolvido;1;48;N1;Cliente-007
+1010;2026-09-05;Lentidão;Alta;Em andamento;;8;N2;Cliente-003
+1011;2026-09-06;Integração API;Média;Resolvido;7;24;N2;Cliente-008
+1012;2026-09-06;Permissões;Baixa;Resolvido;2;48;N1;Cliente-004
+1013;2026-09-07;Banco de dados;Crítica;Resolvido;6;4;Desenvolvimento;Cliente-009
+1014;2026-09-08;Relatório;Média;Em andamento;;24;N2;Cliente-010
+1015;2026-09-08;Erro de cadastro;Alta;Resolvido;10;8;N2;Cliente-006
+1016;2026-09-09;Integração API;Alta;Resolvido;4;8;N2;Cliente-005
+1017;2026-09-10;Lentidão;Média;Resolvido;11;24;Desenvolvimento;Cliente-001
+1018;2026-09-10;Banco de dados;Alta;Em andamento;;8;Desenvolvimento;Cliente-008
+1019;2026-09-11;Permissões;Baixa;Resolvido;1;48;N1;Cliente-007
+1020;2026-09-12;Integração API;Crítica;Resolvido;5;4;N2;Cliente-010
+1021;2026-09-13;Relatório;Média;Resolvido;3;24;N1;Cliente-002
+1022;2026-09-14;Banco de dados;Alta;Resolvido;7;8;Desenvolvimento;Cliente-009
+1023;2026-09-15;Erro de cadastro;Média;Em andamento;;24;N1;Cliente-003
+1024;2026-09-16;Lentidão;Crítica;Resolvido;9;4;Desenvolvimento;Cliente-005
+1025;2026-09-17;Integração API;Alta;Resolvido;6;8;N2;Cliente-006
+1026;2026-09-18;Permissões;Baixa;Resolvido;2;48;N1;Cliente-004
+1027;2026-09-19;Banco de dados;Crítica;Resolvido;3;4;Desenvolvimento;Cliente-010
+1028;2026-09-20;Relatório;Média;Resolvido;15;24;N2;Cliente-008
+1029;2026-09-21;Lentidão;Alta;Em andamento;;8;N2;Cliente-001
+1030;2026-09-22;Integração API;Média;Resolvido;8;24;N2;Cliente-007
