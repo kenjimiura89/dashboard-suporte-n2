@@ -1,63 +1,46 @@
-DASHBOARD DE SUPORTE TÉCNICO N2
+# Dashboard de Suporte Técnico N2
 
-SOBRE O PROJETO
+![Dashboard de Suporte Técnico N2](imagens/dashboard-suporte-n2.png)
+
+## Sobre o projeto
 
 Projeto de análise de dados desenvolvido no Microsoft Power BI para acompanhar indicadores de chamados de suporte técnico N2.
-https://github.com/kenjimiura89/dashboard-suporte-n2/blob/main/README.md
-O dashboard apresenta informações sobre volume de atendimentos, prioridades, cumprimento de SLA e tempo de resolução. O objetivo é transformar dados em informações visuais que ajudem a identificar padrões e apoiar decisões operacionais.
 
-INDICADORES E ANÁLISES
+O dashboard apresenta informações sobre volume de atendimentos, prioridades, cumprimento de SLA e tempo de resolução, com o objetivo de identificar padrões e apoiar decisões operacionais.
 
-• Total de chamados
-Volume total de chamados registrados na base de dados.
+## Indicadores e análises
 
-• Chamados em andamento
-Quantidade de tickets que ainda não foram resolvidos.
+* **Total de chamados:** volume total de chamados registrados.
+* **Chamados em andamento:** quantidade de tickets ainda não resolvidos.
+* **Chamados fora do SLA:** chamados resolvidos cujo tempo de resolução ultrapassou o prazo definido.
+* **Tempo médio de resolução:** média do tempo de resolução dos chamados com duração registrada.
+* **Chamados por categoria:** distribuição dos chamados por categoria.
+* **Chamados por equipe:** distribuição dos tickets entre as equipes.
+* **Chamados por prioridade:** volume de chamados por nível de prioridade.
+* **Chamados por status:** proporção de chamados conforme sua situação.
+* **Tempo médio de resolução por equipe:** comparação do tempo médio entre as equipes.
 
-• Chamados fora do SLA
-Quantidade de chamados resolvidos cujo tempo de resolução ultrapassou o prazo definido.
+## Ferramentas utilizadas
 
-• Tempo médio de resolução
-Média do tempo necessário para resolver os chamados com duração registrada.
+* Microsoft Power BI Desktop
+* Power Query para preparação e transformação dos dados
+* DAX para criação de medidas e indicadores
+* CSV como fonte de dados
 
-• Chamados por categoria
-Distribuição dos chamados de acordo com suas categorias.
-
-• Chamados por equipe
-Distribuição dos tickets entre as equipes de suporte.
-
-• Chamados por prioridade
-Volume de chamados classificados por nível de prioridade.
-
-• Chamados por status
-Proporção de chamados conforme sua situação atual.
-
-• Tempo médio de resolução por equipe
-Comparação do tempo médio de resolução entre as equipes.
-
-FERRAMENTAS UTILIZADAS
-
-• Microsoft Power BI Desktop — criação do dashboard.
-• Power Query — preparação e transformação dos dados.
-• DAX — criação de medidas e indicadores.
-• CSV — arquivo utilizado como fonte de dados.
-
-DADOS
+## Dados
 
 O projeto utiliza uma base fictícia de chamados, criada exclusivamente para fins de estudo e demonstração. Os dados não representam clientes ou incidentes reais.
 
-ESTRUTURA DO PROJETO
+## Estrutura do projeto
 
-• dados/ — arquivo CSV utilizado como fonte de dados.
-• dashboard/ — materiais complementares do relatório.
-• imagens/ — captura de tela do dashboard.
-• sql/ — espaço reservado para consultas SQL futuras.
-• Dashboard-Suporte-N2.pbix — arquivo editável do Power BI.
+* `dados/chamados.csv` — base de dados utilizada.
+* `imagens/dashboard-suporte-n2.png` — imagem do dashboard.
+* `Dashboard-Suporte-N2.pbix` — arquivo editável do Power BI.
 
-APRENDIZADOS
+## Aprendizados
 
-Este projeto foi desenvolvido para praticar preparação e análise de dados, criação de medidas com DAX, construção de indicadores e visualização de informações relacionadas à operação de suporte técnico.
+Este projeto permitiu praticar preparação de dados, criação de medidas com DAX, construção de indicadores e visualização de informações relacionadas à operação de suporte técnico.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-Projeto desenvolvido para fins de aprendizado e composição de portfólio profissional.
+Projeto desenvolvido para fins de aprendizado e portfólio profissional.
