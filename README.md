@@ -1,9 +1,9 @@
 DASHBOARD DE SUPORTE TÉCNICO N2
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 SOBRE O PROJETO
 
 Projeto de análise de dados desenvolvido no Microsoft Power BI para acompanhar indicadores de chamados de suporte técnico N2.
-
+https://github.com/kenjimiura89/dashboard-suporte-n2/blob/main/README.md
 O dashboard apresenta informações sobre volume de atendimentos, prioridades, cumprimento de SLA e tempo de resolução. O objetivo é transformar dados em informações visuais que ajudem a identificar padrões e apoiar decisões operacionais.
 
 INDICADORES E ANÁLISES
